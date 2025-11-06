@@ -18,3 +18,4 @@ elif operacion == '/':
         print("Error: no se puede dividir por cero.")
 else:
     print("Operación no válida.")
+    
